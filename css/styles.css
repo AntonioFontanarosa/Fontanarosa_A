@@ -81,6 +81,10 @@
     font-size: medium;
 }
 
+.certificati{
+    margin: 10px;
+}
+
 :root {
 
     --font-1 : "Public Sans", sans-serif;
